@@ -33,8 +33,8 @@ const Contact = () => {
                   <label className="block uppercase tracking-wide text-grey-darker text-xs font-bold mb-2" htmlFor="grid-password">
                     Password
                   </label>
-                  <textarea className="appearance-none block w-full bg-grey-lighter text-grey-darker border border-grey-lighter rounded py-3 px-4 mb-3" id="grid-password" type="password" placeholder="******************">
-                  </textarea><p className="text-grey-dark text-xs italic">Make it as long and as crazy as you'd like</p>
+                  <input className="appearance-none block w-full bg-grey-lighter text-grey-darker border border-grey-lighter rounded py-3 px-4 mb-3" id="grid-password" type="password" placeholder="******************">
+                  </input><p className="text-grey-dark text-xs italic">Make it as long and as crazy as you'd like</p>
                 </div>
               </div>
               <div className="-mx-3 md:flex mb-2">
